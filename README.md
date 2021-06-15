@@ -16,6 +16,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Links
 
 - Just clone the repo and run `npm install` and finally `npm start`
+- Visit https://challenge-accordion-card.netlify.app/
 
 ### The challenge
 
@@ -31,7 +32,7 @@ Users should be able to:
 
 ![](./public/images/Screenshot-desktop.png)
 
-#### Movile
+#### Mobile
 ![](./public/images/Screenshot-mobile.png)
 
 -----
