@@ -4,6 +4,15 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ## Overview
 
+### Built with
+
+- Web components
+- Lit element
+- Snowpack
+- Semantic HTML5 markup
+- CSS custom properties
+- Movile first
+
 ## Links
 
 - Just clone the repo and run `npm install` and finally `npm start`
@@ -19,19 +28,12 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
+
 ![](./public/images/Screenshot-desktop.png)
 
 #### Movile
 ![](./public/images/Screenshot-mobile.png)
 
-### Built with
-
-- Web components
-- Lit element
-- Snowpack
-- Semantic HTML5 markup
-- CSS custom properties
-- Movile first
-
+-----
 
 Made by **niaggar** with *passion* 💙
