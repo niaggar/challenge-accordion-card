@@ -3,7 +3,7 @@ import { LitElement, html, css } from 'lit';
 import resetStyle from '../../reset.style';
 import optionTxtStyle from './option-txt.style';
 
-import rowicon from '../../../public/images/icon-arrow-down.svg'
+const rowicon = './images/icon-arrow-down.svg';
 
 class OptionTxt extends LitElement {
   static get styles() {

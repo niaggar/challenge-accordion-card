@@ -17,5 +17,5 @@
 .prettierignore
 
 node_modules
-
 public/documents
+build

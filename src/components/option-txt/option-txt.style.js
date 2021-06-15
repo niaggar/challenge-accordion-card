@@ -30,7 +30,7 @@ const optionTxtStyle = css`
     transition: color 0.4s;
   }
 
-  .opt__main > h3:hover {
+  .opt-container:hover h3 {
     color: #f37b36;
   }
 
@@ -42,7 +42,9 @@ const optionTxtStyle = css`
   .opt__more-txt {
     height: 0;
     overflow: hidden;
-    transition: height 0.3s ease-in-out, padding-top 0.3s ease-in-out
+    transition: 
+      height 0.3s ease-in-out, 
+      padding-top 0.3s ease-in-out;
   }
 
   :host(.active) .opt__more-txt {
